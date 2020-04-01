@@ -1,2 +1,3 @@
-# Ola Mundo
- primeiro teste
+# Olá, Mundo!
+
+ Primeiro teste, do curso de Git e Github
